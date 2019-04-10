@@ -1,0 +1,12 @@
+c:\users\nmeti\source\repos\CurExample\CurExample\bin\Debug\CurExample.exe.config
+c:\users\nmeti\source\repos\CurExample\CurExample\bin\Debug\CurExample.exe
+c:\users\nmeti\source\repos\CurExample\CurExample\bin\Debug\CurExample.pdb
+c:\users\nmeti\source\repos\CurExample\CurExample\obj\Debug\CurExample.csprojResolveAssemblyReference.cache
+c:\users\nmeti\source\repos\CurExample\CurExample\obj\Debug\CurExample.csproj.CoreCompileInputs.cache
+c:\users\nmeti\source\repos\CurExample\CurExample\obj\Debug\CurExample.exe
+c:\users\nmeti\source\repos\CurExample\CurExample\obj\Debug\CurExample.pdb
+C:\Users\nmeti\source\repos\CurExample\CurExample\bin\Debug\Entity.dll
+C:\Users\nmeti\source\repos\CurExample\CurExample\bin\Debug\Dapper.dll
+C:\Users\nmeti\source\repos\CurExample\CurExample\bin\Debug\Entity.pdb
+C:\Users\nmeti\source\repos\CurExample\CurExample\bin\Debug\Dapper.xml
+C:\Users\nmeti\source\repos\CurExample\CurExample\obj\Debug\CurExample.csproj.CopyComplete

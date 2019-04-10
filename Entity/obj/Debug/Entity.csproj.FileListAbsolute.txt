@@ -1,0 +1,13 @@
+C:\Users\nmeti\source\repos\CurExample\Entity\bin\Debug\Entity.dll
+C:\Users\nmeti\source\repos\CurExample\Entity\bin\Debug\Entity.pdb
+C:\Users\nmeti\source\repos\CurExample\Entity\bin\Debug\Dapper.dll
+C:\Users\nmeti\source\repos\CurExample\Entity\bin\Debug\Google.Protobuf.dll
+C:\Users\nmeti\source\repos\CurExample\Entity\bin\Debug\MySql.Data.dll
+C:\Users\nmeti\source\repos\CurExample\Entity\bin\Debug\Dapper.xml
+C:\Users\nmeti\source\repos\CurExample\Entity\bin\Debug\Google.Protobuf.xml
+C:\Users\nmeti\source\repos\CurExample\Entity\bin\Debug\MySql.Data.xml
+C:\Users\nmeti\source\repos\CurExample\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\nmeti\source\repos\CurExample\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\nmeti\source\repos\CurExample\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\nmeti\source\repos\CurExample\Entity\obj\Debug\Entity.dll
+C:\Users\nmeti\source\repos\CurExample\Entity\obj\Debug\Entity.pdb
